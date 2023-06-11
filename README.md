@@ -10,4 +10,4 @@
 To visit my primary account, click on the button below  
 👇
 
-[![Follow @gabrielgcbs](https://img.shields.io/badge/Follow-%40gabriekgcbs-blue.svg?logo=github)](https://github.com/gabrielgcbs)
+[![Follow @gabrielgcbs](https://img.shields.io/badge/Follow-%40gabrielgcbs-blue.svg?logo=github)](https://github.com/gabrielgcbs)
